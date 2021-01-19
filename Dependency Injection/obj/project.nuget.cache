@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AI8nBiYIEtKL61xUS6USbw6em8YZs3OJbzXTHjW926RDuHTCbPhEE2zFXKQpm7+BzMZQo9guEQPu/u1LZQLBOA==",
+  "dgSpecHash": "yzUOT/05EjvhIKNIx4LGR1sbeIBMxbQvfWb0kLWdIWpgVErMNSn5pATU94DqYjDwucqO1BK4GrxNCpUv0JkXag==",
   "success": true,
   "projectFilePath": "C:\\Users\\theru\\Desktop\\Dependency Injection Project\\Dependency Injection\\Dependency Injection.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\theru\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\theru\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\theru\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\theru\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

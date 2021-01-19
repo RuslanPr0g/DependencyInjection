@@ -1,0 +1,6 @@
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\ZabavnayaBiblioteka.dll
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.AssemblyInfo.cs
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll

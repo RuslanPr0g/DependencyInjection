@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOcXaNR+0IaDRngeIjCgUbvaYIq/rZtOEcMJbY7byVU6CfdZ4leJV45vIOwkpNW8cCFJ2uB/TlaVYgNfybhlKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theru\\Desktop\\Dependency Injection Project\\ZabavnayaBiblioteka\\ZabavnayaBiblioteka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theru\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\theru\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

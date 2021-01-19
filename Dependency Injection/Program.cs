@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Autofac;
+using System;
 using ZabavnayaBiblioteka;
 using ZabavnayaBiblioteka.Utilities;
 
@@ -10,12 +11,14 @@ namespace Dependency_Injection
         {
             var container = Startup.Configure();
 
-            using ()
+            using (var scope = container.BeginLifetimeScope())
             {
+                var app = scope.Resolve<IApplication>();
 
+                app.Run();
             }
 
-                Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }

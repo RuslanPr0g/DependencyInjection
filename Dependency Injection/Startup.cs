@@ -1,6 +1,7 @@
 ﻿using Autofac;
 using System;
 using System.Collections.Generic;
+using System.Reflection;
 using System.Text;
 using ZabavnayaBiblioteka;
 
@@ -13,7 +14,9 @@ namespace Dependency_Injection
             var builder = new ContainerBuilder();
 
             builder.RegisterType<BusinessLogic>().As<IBusinessLogic>();
-            
+
+            builder.RegisterAssemblyTypes(Assembly.Load(nameof(ZabavnayaBiblioteka)));
+
             return builder.Build();
         }
     }

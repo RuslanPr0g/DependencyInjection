@@ -8,14 +8,14 @@ namespace Dependency_Injection
     {
         static void Main(string[] args)
         {
-            ILogger logger = new Logger();
-            IDataAccess dataAccess = new DataAccess();
+            var container = Startup.Configure();
 
-            IBusinessLogic businessLogic = new BusinessLogic(logger, dataAccess);
+            using ()
+            {
 
-            businessLogic.PrecessData();
+            }
 
-            Console.ReadKey();
+                Console.ReadKey();
         }
     }
 }

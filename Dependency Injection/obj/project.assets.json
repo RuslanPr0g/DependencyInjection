@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ZabavnayaBiblioteka/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ZabavnayaBiblioteka.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZabavnayaBiblioteka.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ZabavnayaBiblioteka/1.0.0": {
+      "type": "project",
+      "path": "../ZabavnayaBiblioteka/ZabavnayaBiblioteka.csproj",
+      "msbuildProject": "../ZabavnayaBiblioteka/ZabavnayaBiblioteka.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ZabavnayaBiblioteka >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\theru\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\theru\\Desktop\\Dependency Injection Project\\ZabavnayaBiblioteka\\ZabavnayaBiblioteka.csproj": {
+              "projectPath": "C:\\Users\\theru\\Desktop\\Dependency Injection Project\\ZabavnayaBiblioteka\\ZabavnayaBiblioteka.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

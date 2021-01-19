@@ -1,4 +1,5 @@
 ﻿using System;
+using ZabavnayaBiblioteka;
 
 namespace Dependency_Injection
 {
@@ -6,7 +7,11 @@ namespace Dependency_Injection
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BusinessLogic businessLogic = new BusinessLogic();
+
+            businessLogic.ProcessData();
+
+            Console.ReadKey();
         }
     }
 }

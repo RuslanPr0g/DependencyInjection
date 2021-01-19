@@ -15,7 +15,8 @@ namespace Dependency_Injection
 
             builder.RegisterType<BusinessLogic>().As<IBusinessLogic>();
 
-            builder.RegisterAssemblyTypes(Assembly.Load(nameof(ZabavnayaBiblioteka)));
+            builder.RegisterAssemblyTypes(Assembly.Load(nameof(ZabavnayaBiblioteka)))
+                .Where(t => t.Namespace.Contains("Utilities"));
 
             return builder.Build();
         }

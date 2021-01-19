@@ -4,11 +4,11 @@ using System.Text;
 
 namespace ZabavnayaBiblioteka.Utilities
 {
-    public class Logger
+    public class Logger : ILogger
     {
         public void Log(string data)
         {
-            Console.WriteLine(data);
+            Console.WriteLine($"{DateTime.Now}: {data}");
         }
     }
 }

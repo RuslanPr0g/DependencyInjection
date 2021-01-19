@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZabavnayaBiblioteka.Utilities
 {
-    public class DataAccess
+    public class DataAccess : IDataAccess
     {
         public void LoadData()
         {

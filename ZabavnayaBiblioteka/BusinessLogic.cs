@@ -5,22 +5,28 @@ using ZabavnayaBiblioteka.Utilities;
 
 namespace ZabavnayaBiblioteka
 {
-    public class BusinessLogic
+    public class BusinessLogic : IBusinessLogic
     {
+        private readonly ILogger _logger;
+        private readonly IDataAccess _dataAccess;
+
+        public BusinessLogic(ILogger logger, IDataAccess dataAccess)
+        {
+            this._logger = logger;
+            this._dataAccess = dataAccess;
+        }
+
         public void PrecessData()
         {
-            Logger logger = new Logger();
-            DataAccess dataAccess = new DataAccess();
-
-            logger.Log("Getting started...");
+            _logger.Log("Getting started...");
 
             Console.WriteLine("In process...");
 
-            dataAccess.LoadData();
+            _dataAccess.LoadData();
 
-            dataAccess.SaveData();
+            _dataAccess.SaveData();
 
-            logger.Log("Finish loading.");
+            _logger.Log("Finish loading.");
         }
     }
 }

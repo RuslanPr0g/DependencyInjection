@@ -1,0 +1,9 @@
+C:\Users\theru\Desktop\Dependency Injection Project\ZabavnayaBiblioteka\bin\Debug\netstandard2.0\ZabavnayaBiblioteka.deps.json
+C:\Users\theru\Desktop\Dependency Injection Project\ZabavnayaBiblioteka\bin\Debug\netstandard2.0\ZabavnayaBiblioteka.dll
+C:\Users\theru\Desktop\Dependency Injection Project\ZabavnayaBiblioteka\bin\Debug\netstandard2.0\ZabavnayaBiblioteka.pdb
+C:\Users\theru\Desktop\Dependency Injection Project\ZabavnayaBiblioteka\obj\Debug\netstandard2.0\ZabavnayaBiblioteka.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\Dependency Injection Project\ZabavnayaBiblioteka\obj\Debug\netstandard2.0\ZabavnayaBiblioteka.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\Dependency Injection Project\ZabavnayaBiblioteka\obj\Debug\netstandard2.0\ZabavnayaBiblioteka.AssemblyInfo.cs
+C:\Users\theru\Desktop\Dependency Injection Project\ZabavnayaBiblioteka\obj\Debug\netstandard2.0\ZabavnayaBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\Dependency Injection Project\ZabavnayaBiblioteka\obj\Debug\netstandard2.0\ZabavnayaBiblioteka.dll
+C:\Users\theru\Desktop\Dependency Injection Project\ZabavnayaBiblioteka\obj\Debug\netstandard2.0\ZabavnayaBiblioteka.pdb

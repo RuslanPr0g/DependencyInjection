@@ -4,3 +4,17 @@ C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\obj\Deb
 C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.AssemblyInfo.cs
 C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\Autofac.dll
 C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.exe
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.deps.json
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.runtimeconfig.json
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.runtimeconfig.dev.json
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.dll
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.pdb
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\bin\Debug\netcoreapp3.1\ZabavnayaBiblioteka.pdb
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.csproj.CopyComplete
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.dll
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.pdb
+C:\Users\theru\Desktop\Dependency Injection Project\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.genruntimeconfig.cache

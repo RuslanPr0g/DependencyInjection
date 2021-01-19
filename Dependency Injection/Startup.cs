@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using ZabavnayaBiblioteka;
 
 namespace Dependency_Injection
 {
@@ -11,6 +12,8 @@ namespace Dependency_Injection
         {
             var builder = new ContainerBuilder();
 
+            builder.RegisterType<BusinessLogic>().As<IBusinessLogic>();
+            
             return builder.Build();
         }
     }
